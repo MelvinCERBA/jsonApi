@@ -1,0 +1,9 @@
+{
+    "/api/*": "/$1",
+    "/api/Society/:id": "/societies/:id",
+    "/api/Society/List": "/societies",
+    "/api/User/:id": "/users/:id",
+    "/api/User/List": "/users",
+    "/api/Article/:id": "/articles/:id",
+    "/api/Article/List": "/articles"
+  }
