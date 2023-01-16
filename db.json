@@ -1,5 +1,5 @@
 {
-    "articles":{
+    "api/Article/List":{
         "isSuccess": true,
         "data":[
             { 
@@ -19,7 +19,7 @@
         ],
         "error": null
     },
-    "users": {
+    "api/User/List": {
         "isSuccess": true,
         "data":[
             {
@@ -36,7 +36,7 @@
         ],
         "error": null
     },
-    "societies":{
+    "api/Society/List":{
         "isSuccess": true,
         "data":[
             {
