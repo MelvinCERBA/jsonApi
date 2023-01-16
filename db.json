@@ -4,14 +4,14 @@
             "desc": "String",
             "image": "http://i.imgur.com/DvpvklR.png",
             "price": 1.00,
-            "societyId": 1,
+            "societyId": "1",
             "title": "json_product1"
         },
         { 
             "desc": "String",
             "image": "http://i.imgur.com/DvpvklR.png",
             "price": 1.50,
-            "societyId": 1,
+            "societyId": "1",
             "title": "json_product2"
         }
     ]
