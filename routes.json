@@ -1,3 +1,8 @@
 {
-    
+    "/api/Society/List": "/societies",
+    "/api/Society/:id": "/societies/:id",
+    "/api/User/List": "/users",
+    "/api/User/:id": "/users/:id",
+    "/api/Article/List": "/articles",
+    "/api/Article/:id": "/articles/:id"
   }
