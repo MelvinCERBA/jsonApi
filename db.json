@@ -1,7 +1,7 @@
 {   
-    "api": {
-        "Article": {
-            "List": [
+    "api": [
+        { "Article": [
+            {"List": [
                 { 
                     "desc": "String",
                     "image": "https://i.imgur.com/DvpvklR.png",
@@ -17,7 +17,7 @@
                     "title": "json_product2"
                 }
             ]
-        }
-    }
+        }]
+    }]
 }
    
